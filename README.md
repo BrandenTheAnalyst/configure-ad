@@ -22,7 +22,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create Resourse Group on Azure 
+- Create Resource Group on Azure 
 - Create Azure virtual machine with Domain Controller with Active Directory installed
 - Create another Azure virtual running Windows 10 Pro
 - Connect Windows 10 VM to Domain Controller w/ Active Directory
